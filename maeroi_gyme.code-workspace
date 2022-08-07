@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\maeroi_gyme"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pagn pigenig"
+	}
+}

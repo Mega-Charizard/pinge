@@ -1,0 +1,24 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+    border-radius: 25px;
+}
+
+#canvas
+{
+    border: 5px rgb(255, 255, 255) solid;
+    width: 710px;
+    height: 610px;
+}
